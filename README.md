@@ -1,2 +1,2 @@
-# Ak-ll-_Saks-_Ardunio
+# Akıll-_Saksı_Ardunio
 Akıllı saksı denemesi
