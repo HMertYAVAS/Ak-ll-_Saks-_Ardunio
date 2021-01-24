@@ -1,2 +1,2 @@
-# smart_pot_Ardunio
+# Smart_Pot_Ardunio
 Akıllı saksı denemesi
